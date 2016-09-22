@@ -1,5 +1,5 @@
 {
-  "name": "integration-lytics",
+  "name": "@astronomerio/integration-lytics",
   "version": "1.0.7",
   "private": true,
   "description": "Lytics server-side integration",
